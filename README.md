@@ -13,15 +13,14 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - **Tools & Libraries:** React.js (beginner), Tkinter, Git & GitHub, VS Code
 - **Other:** Problem-solving, UI/UX basics, team collaboration
 
-### Projects
-- **[Expense Tracker App](https://github.com/yomnaelsafty/Expense-tracher)** – A simple GUI-based Python app using Tkinter to track daily expenses.
-- **Responsive Portfolio Website** – Built using HTML, CSS, and a bit of JavaScript.
-*(More coming soon!)*
+## Projects
 
--** Weather Forecast  
-A beginner-friendly weather app that shows real-time weather information for any city.
-Built with Python, Tkinter, and OpenWeatherMap API as part of my learning journey.  
-[View on GitHub](https://github.com/yomnaelsafty/weather-forecast)
+- [**Expense Tracker App**](https://github.com/yomnaelsafty/expense-tracker) – A simple GUI-based Python app using Tkinter to track daily expenses.
+
+- [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
+
+- [**Weather Forecast App**](https://github.com/yomnaelsafty/weather-forecast) – A beginner-friendly weather app that shows real-time weather information for any city. Built with Python, Tkinter, and the OpenWeatherMap API as part of my learning journey.
+
 
 ### Let's Connect
 - [LinkedIn Profile](https://www.linkedin.com/in/yomna-ali-66a778148)
