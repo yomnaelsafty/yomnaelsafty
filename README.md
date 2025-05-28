@@ -18,6 +18,11 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - **Responsive Portfolio Website** – Built using HTML, CSS, and a bit of JavaScript.
 *(More coming soon!)*
 
+-** Weather Forecast  
+A beginner-friendly weather app that shows real-time weather information for any city.
+Built with Python, Tkinter, and OpenWeatherMap API as part of my learning journey.  
+[View on GitHub](https://github.com/yomnaelsafty/weather-forecast)
+
 ### Let's Connect
 - [LinkedIn Profile](https://www.linkedin.com/in/yomna-ali-66a778148)
 
