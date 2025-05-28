@@ -15,7 +15,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 ## Projects
 
-- [**Expense Tracker App**](https://github.com/yomnaelsafty/expense-tracker) – A simple GUI-based Python app using Tkinter to track daily expenses.
+- [**Expense Tracker App**](https://github.com/yomnaelsafty/Expense-tracher) – A simple GUI-based Python app using Tkinter to track daily expenses.
 
 - [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
 
