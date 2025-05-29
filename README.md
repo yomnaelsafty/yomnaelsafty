@@ -27,7 +27,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 - [**Rock Paper Scissors Game**](https://github.com/yomnaelsafty/paper_rock_scissors) – A simple Python command-line game where you play Rock, Paper, Scissors against the computer.
   
-- [**To-Do List (CLI)**](https://github.com/yomnaelsafty/todo_list) – A terminal-based Python app to manage daily tasks through a simple text interface.
+- [**To-Do List (CLI)**](https://github.com/yomnaelsafty/To_Do_List) – A terminal-based Python app to manage daily tasks through a simple text interface.
 
 - [**Text Editor**](https://github.com/yomnaelsafty/text_editor) – A basic notepad-style text editor built with Python and Tkinter, supporting open, edit, and save functionality.
 
