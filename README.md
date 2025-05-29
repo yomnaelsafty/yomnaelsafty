@@ -20,9 +20,9 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
 
 - [**Weather Forecast App**](https://github.com/yomnaelsafty/weather_forecast) – A beginner-friendly weather app that shows real-time weather information for any city.
--  Built with Python, Tkinter, and the OpenWeatherMap API as part of my learning journey.
-
--  - [**Currency Converter App**](https://github.com/yomnaelsafty/currency-converter) – A real-time currency conversion tool built with Python and Tkinter, using a live exchange rate API.
+  Built with Python, Tkinter, and the OpenWeatherMap API as part of my learning journey.
+  
+- [**Currency Converter App**](https://github.com/yomnaelsafty/currency_converter) – A real-time currency conversion tool built with Python and Tkinter, using a live exchange rate API.
 
 
 
