@@ -24,6 +24,9 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
   
 - [**Currency Converter App**](https://github.com/yomnaelsafty/currency_converter) – A real-time currency conversion tool built with Python and Tkinter, using a live exchange rate API.
 
+- [**Guessing Game**](https://github.com/YOUR_USERNAME/guessing_game) – A beginner-friendly Python game where the player guesses a random number with feedback and limited attempts.
+
+
 
 
 ### Let's Connect
