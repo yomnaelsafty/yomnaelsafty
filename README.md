@@ -30,6 +30,8 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
   
 - [**To-Do List (CLI)**](https://github.com/YOUR_USERNAME/todo_list) – A terminal-based Python app to manage daily tasks through a simple text interface.
 
+- [**Text Editor**](https://github.com/YOUR_USERNAME/text_editor) – A basic notepad-style text editor built with Python and Tkinter, supporting open, edit, and save functionality.
+
 
 
 
