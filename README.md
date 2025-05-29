@@ -12,12 +12,11 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Tools & Libraries:** React.js (beginner), Tkinter, Git & GitHub, VS Code
 - **Other:** Problem-solving, UI/UX basics, team collaboration
+  
 
 ## Projects
 
 - [**Expense Tracker App**](https://github.com/yomnaelsafty/Expense-tracher) – A simple GUI-based Python app using Tkinter to track daily expenses.
-
-- [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
 
 - [**Weather Forecast App**](https://github.com/yomnaelsafty/weather_forecast) – A beginner-friendly weather app that shows real-time weather information for any city.
   Built with Python, Tkinter, and the OpenWeatherMap API as part of my learning journey.
@@ -31,6 +30,10 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - [**To-Do List (CLI)**](https://github.com/YOUR_USERNAME/todo_list) – A terminal-based Python app to manage daily tasks through a simple text interface.
 
 - [**Text Editor**](https://github.com/YOUR_USERNAME/text_editor) – A basic notepad-style text editor built with Python and Tkinter, supporting open, edit, and save functionality.
+
+- [**Web Scraper**](https://github.com/YOUR_USERNAME/web_scraper) – A simple Python-based scraper that extracts data from websites and saves it to a CSV file using `requests` and `BeautifulSoup`.
+  
+- [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
 
 
 
