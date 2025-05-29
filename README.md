@@ -27,6 +27,8 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - [**Guessing Game**](https://github.com/YOUR_USERNAME/guessing_game) – A beginner-friendly Python game where the player guesses a random number with feedback and limited attempts.
 
 - [**Rock Paper Scissors Game**](https://github.com/YOUR_USERNAME/paper_rock_scissors) – A simple Python command-line game where you play Rock, Paper, Scissors against the computer.
+  
+- [**To-Do List (CLI)**](https://github.com/YOUR_USERNAME/todo_list) – A terminal-based Python app to manage daily tasks through a simple text interface.
 
 
 
