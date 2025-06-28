@@ -33,7 +33,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 - [**Web Scraper**](https://github.com/yomnaelsafty/Web_Scraper) – A simple Python-based scraper that extracts data from websites and saves it to a CSV file using `requests` and `BeautifulSoup`.
   
-- [**X-O Game**](https://github.com/yomnaelsafty/X-O-Game) – A fun GUI-based Python game built with Tkinter where you play Tic-Tac-Toe against the computer. Features a scoring system, restart button, and         colored win/tie indicators.
+- [**X-O Game**](https://github.com/yomnaelsafty/Tic-Tac-Toe-Game.git) – A fun GUI-based Python game built with Tkinter where you play Tic-Tac-Toe against the computer. Features a scoring system, restart         button, and colored win/tie indicators.
 
 - [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
 
