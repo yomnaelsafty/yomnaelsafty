@@ -37,6 +37,10 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 - [**Responsive Portfolio Website**](#) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
 
+- [**Profile Card**](https://github.com/yomnaelsafty/my-card) – A simple and elegant profile card built using only HTML and CSS. It features a clean design, smooth hover effects, and is fully responsive for all screen sizes.
+
+
+
 
 
 
