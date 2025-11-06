@@ -36,6 +36,9 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - [**X-O Game**](https://github.com/yomnaelsafty/Tic-Tac-Toe-Game.git) – A fun GUI-based Python game built with Tkinter where you play Tic-Tac-Toe against the computer. Features a scoring system, restart         button, and colored win/tie indicators.
 
 - [**Responsive Portfolio Website**](https://github.com/yomnaelsafty/yomna_personal_website) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
+  You can view the live version here:  
+👉 [**View Portfolio**](https://yomnaelsafty.github.io/yomna_personal_website)
+
 
 - [**Profile Card**](https://github.com/yomnaelsafty/my-card) – A simple and elegant profile card built using only HTML and CSS. It features a clean design, smooth hover effects, and is fully responsive for all screen sizes.
 
