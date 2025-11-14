@@ -41,11 +41,16 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 
 - [**Profile Card**](https://github.com/yomnaelsafty/my-card) – A simple and elegant profile card built using only HTML and CSS. It features a clean design, smooth hover effects, and is fully responsive for all screen sizes.
+  You can view the live version here: 
   👉 [**View card**](https://yomnaelsafty.github.io/my-card/)
 
 - [**Time Tracking Dashboard**](https://github.com/yomnaelsafty/-time-tracking-dashboard/) – A responsive time tracking dashboard built with HTML, CSS & JavaScript.
+  You can view the live version here: 
+  👉 [**View page**](https://yomnaelsafty.github.io/-time-tracking-dashboard/)
   
 - [**Quran Tab**](https://github.com/yomnaelsafty/Quran-Tab) – A Chrome & Edge extension that shows a random ayah from the Quran every time you open a new tab.
+  You can view the live version here:
+   👉 [**View page**](https://yomnaelsafty.github.io/-time-tracking-dashboard/)
 
 
 
