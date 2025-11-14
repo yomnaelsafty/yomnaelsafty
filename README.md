@@ -41,6 +41,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 
 - [**Profile Card**](https://github.com/yomnaelsafty/my-card) – A simple and elegant profile card built using only HTML and CSS. It features a clean design, smooth hover effects, and is fully responsive for all screen sizes.
+  👉 [**View card**](https://yomnaelsafty.github.io/my-card/)
 
 - [**Time Tracking Dashboard**](https://github.com/yomnaelsafty/-time-tracking-dashboard/) – A responsive time tracking dashboard built with HTML, CSS & JavaScript.
   
