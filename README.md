@@ -37,9 +37,9 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 | **📖 Quran Tab** | Chrome/Edge extension showing a random ayah on every new tab. | [GitHub](https://github.com/yomnaelsafty/Quran-Tab) | [View Page](https://yomnaelsafty.github.io/Quran-Tab/) |
 
 
-## Let's Connect
-- [LinkedIn Profile](https://www.linkedin.com/in/yomna-ali-66a778148)
+### Let's Connect
+- [🔗 LinkedIn](https://www.linkedin.com/in/yomna-ali-66a778148)
 
 ---
 
-Thanks for visiting my profile!
+### Thanks for visiting my profile!
