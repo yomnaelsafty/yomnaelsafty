@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** from **Egypt**.
 
@@ -13,54 +13,31 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 - **Tools & Libraries:** React.js (beginner), Tkinter, Git & GitHub, VS Code
 - **Other:** Problem-solving, UI/UX basics, team collaboration
   
-
 ## Projects
 
-- [**Expense Tracker App**](https://github.com/yomnaelsafty/Expense-tracher) – A simple GUI-based Python app using Tkinter to track daily expenses.
+### 🐍 Python & Tkinter Apps
+| Project | Description | GitHub Link |
+|---------|------------|-------------|
+| **💰 Expense Tracker App** | Track daily expenses with a simple GUI. | [GitHub](https://github.com/yomnaelsafty/Expense-tracher) |
+| **☁️ Weather Forecast App** | Shows real-time weather for any city using OpenWeatherMap API. | [GitHub](https://github.com/yomnaelsafty/weather_forecast) |
+| **💱 Currency Converter App** | Real-time currency conversion tool. | [GitHub](https://github.com/yomnaelsafty/currency_converter) |
+| **🎲 Guessing Game** | Guess a random number with feedback and limited attempts. | [GitHub](https://github.com/yomnaelsafty/guessing_game) |
+| **✂️ Rock Paper Scissors Game** | Play against the computer in a CLI game. | [GitHub](https://github.com/yomnaelsafty/paper_rock_scissors) |
+| **📝 To-Do List (CLI)** | Manage daily tasks through terminal. | [GitHub](https://github.com/yomnaelsafty/To_Do_List) |
+| **📄 Text Editor** | Basic notepad-style text editor. | [GitHub](https://github.com/yomnaelsafty/text_editor) |
+| **🕸️ Web Scraper** | Extract website data into CSV. | [GitHub](https://github.com/yomnaelsafty/Web_Scraper) |
+| **❌⭕ X-O Game** | GUI Tic-Tac-Toe game with scoring and restart button. | [GitHub](https://github.com/yomnaelsafty/Tic-Tac-Toe-Game.git) |
 
-- [**Weather Forecast App**](https://github.com/yomnaelsafty/weather_forecast) – A beginner-friendly weather app that shows real-time weather information for any city.
-  Built with Python, Tkinter, and the OpenWeatherMap API as part of my learning journey.
-  
-- [**Currency Converter App**](https://github.com/yomnaelsafty/currency_converter) – A real-time currency conversion tool built with Python and Tkinter, using a live exchange rate API.
-
-- [**Guessing Game**](https://github.com/yomnaelsafty/guessing_game) – A beginner-friendly Python game where the player guesses a random number with feedback and limited attempts.
-
-- [**Rock Paper Scissors Game**](https://github.com/yomnaelsafty/paper_rock_scissors) – A simple Python command-line game where you play Rock, Paper, Scissors against the computer.
-  
-- [**To-Do List (CLI)**](https://github.com/yomnaelsafty/To_Do_List) – A terminal-based Python app to manage daily tasks through a simple text interface.
-
-- [**Text Editor**](https://github.com/yomnaelsafty/text_editor) – A basic notepad-style text editor built with Python and Tkinter, supporting open, edit, and save functionality.
-
-- [**Web Scraper**](https://github.com/yomnaelsafty/Web_Scraper) – A simple Python-based scraper that extracts data from websites and saves it to a CSV file using `requests` and `BeautifulSoup`.
-  
-- [**X-O Game**](https://github.com/yomnaelsafty/Tic-Tac-Toe-Game.git) – A fun GUI-based Python game built with Tkinter where you play Tic-Tac-Toe against the computer. Features a scoring system, restart         button, and colored win/tie indicators.
-
-- [**Responsive Portfolio Website**](https://github.com/yomnaelsafty/yomna_personal_website) – Built using HTML, CSS, and a bit of JavaScript. *(More coming soon!)*
-  You can view the live version here:  
-👉 [**View Portfolio**](https://yomnaelsafty.github.io/yomna_personal_website)
+### 🌐 Web Development Projects
+| Project | Description | GitHub Link | Live Demo |
+|---------|------------|-------------|-----------|
+| **💻 Responsive Portfolio Website** | Built with HTML, CSS & JavaScript. | [GitHub](https://github.com/yomnaelsafty/yomna_personal_website) | [View Portfolio](https://yomnaelsafty.github.io/yomna_personal_website) |
+| **🃏 Profile Card** | Elegant and responsive card with hover effects. | [GitHub](https://github.com/yomnaelsafty/my-card) | [View Card](https://yomnaelsafty.github.io/my-card/) |
+| **⏱️ Time Tracking Dashboard** | Responsive dashboard built with HTML, CSS & JavaScript. | [GitHub](https://github.com/yomnaelsafty/-time-tracking-dashboard/) | [View Page](https://yomnaelsafty.github.io/-time-tracking-dashboard/) |
+| **📖 Quran Tab** | Chrome/Edge extension showing a random ayah on every new tab. | [GitHub](https://github.com/yomnaelsafty/Quran-Tab) | [View Page](https://yomnaelsafty.github.io/Quran-Tab/) |
 
 
-- [**Profile Card**](https://github.com/yomnaelsafty/my-card) – A simple and elegant profile card built using only HTML and CSS. It features a clean design, smooth hover effects, and is fully responsive for all screen sizes.
-  You can view the live version here: 
-  👉 [**View card**](https://yomnaelsafty.github.io/my-card/)
-
-- [**Time Tracking Dashboard**](https://github.com/yomnaelsafty/-time-tracking-dashboard/) – A responsive time tracking dashboard built with HTML, CSS & JavaScript.
-  You can view the live version here: 
-  👉 [**View page**](https://yomnaelsafty.github.io/-time-tracking-dashboard/)
-  
-- [**Quran Tab**](https://github.com/yomnaelsafty/Quran-Tab) – A Chrome & Edge extension that shows a random ayah from the Quran every time you open a new tab.
-  You can view the live version here:
-   👉 [**View page**](https://yomnaelsafty.github.io/-time-tracking-dashboard/)
-
-
-
-
-
-
-
-
-
-### Let's Connect
+## Let's Connect
 - [LinkedIn Profile](https://www.linkedin.com/in/yomna-ali-66a778148)
 
 ---
