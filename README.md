@@ -1,4 +1,4 @@
-[## Hi there 👋
+## Hi there 👋
 
 I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** from **Egypt**.
 
