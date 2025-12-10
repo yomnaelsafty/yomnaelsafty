@@ -35,6 +35,8 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 | **🃏 Profile Card** | Elegant and responsive card with hover effects. | [GitHub](https://github.com/yomnaelsafty/my-card) | [View Card](https://yomnaelsafty.github.io/my-card/) |
 | **⏱️ Time Tracking Dashboard** | Responsive dashboard built with HTML, CSS & JavaScript. | [GitHub](https://github.com/yomnaelsafty/-time-tracking-dashboard/) | [View Page](https://yomnaelsafty.github.io/-time-tracking-dashboard/) |
 | **📖 Quran Tab** | Chrome/Edge extension showing a random ayah on every new tab. | [GitHub](https://github.com/yomnaelsafty/Quran-Tab) | [View Page](https://yomnaelsafty.github.io/Quran-Tab/) |
+| **🌐 Final Landing Page Project** | Fully responsive landing page built with HTML & CSS. | [GitHub](https://github.com/yomnaelsafty/Landing-Page) | [Live Demo](https://yomnaelsafty.github.io/Landing-Page/) |
+
 
 
 ### Let's Connect
