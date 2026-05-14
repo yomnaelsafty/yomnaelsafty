@@ -48,6 +48,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 | **🔍 GitHub User Search App** | Search any GitHub user and view their profile info via GitHub API. | [GitHub](https://github.com/yomnaelsafty/Github-user-search-app) | [Live Demo](https://yomnaelsafty.github.io/Github-user-search-app/) |
 | **📋 Todo App (Arabic)** | Arabic todo app with localStorage, complete/delete functionality. | [GitHub](https://github.com/yomnaelsafty/Todo-app) | [Live Demo](https://yomnaelsafty.github.io/Todo-app/) |
 | **✅ Todo App (Frontend Mentor)** | Feature-rich todo app with dark mode, filters, drag & drop, and localStorage. | [GitHub](https://github.com/yomnaelsafty/Todo-app-final) | [Live Demo](https://yomnaelsafty.github.io/Todo-app-final/) |
+| **📝 Almadrasa Notes App** | Fully responsive notes app with add, edit, delete, pin & search — built with Vanilla JS & LocalStorage. | [GitHub](https://github.com/yomnaelsafty/Almadrasa_Notes) | [Live Demo](https://yomnaelsafty.github.io/Almadrasa_Notes/) |
 
 ---
 
