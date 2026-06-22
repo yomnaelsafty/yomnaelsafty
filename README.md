@@ -9,7 +9,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 ### Skills
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Tools & Libraries:** React.js (beginner), Tkinter, Git & GitHub, VS Code
+- **Tools & Libraries:** React.js, Tkinter, Git & GitHub, VS Code
 - **Other:** Problem-solving, UI/UX basics, team collaboration
 
 ---
@@ -49,6 +49,14 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 | **📋 Todo App (Arabic)** | Arabic todo app with localStorage, complete/delete functionality. | [GitHub](https://github.com/yomnaelsafty/Todo-app) | [Live Demo](https://yomnaelsafty.github.io/Todo-app/) |
 | **✅ Todo App (Frontend Mentor)** | Feature-rich todo app with dark mode, filters, drag & drop, and localStorage. | [GitHub](https://github.com/yomnaelsafty/Todo-app-final) | [Live Demo](https://yomnaelsafty.github.io/Todo-app-final/) |
 | **📝 Almadrasa Notes App** | Fully responsive notes app with add, edit, delete, pin & search — built with Vanilla JS & LocalStorage. | [GitHub](https://github.com/yomnaelsafty/Almadrasa_Notes) | [Live Demo](https://yomnaelsafty.github.io/Almadrasa_Notes/) |
+
+---
+
+### ⚛️ React Projects
+
+| Project | Description | GitHub Link | Live Demo |
+|---------|------------|-------------|-----------|
+| **🍎 Calorie Tracker App** | Track daily calorie intake by date with full CRUD, persistent localStorage, and dynamic routing — built with React, Vite & Context API. | [GitHub](https://github.com/yomnaelsafty/Calorie-Tracker-App) | [Live Demo](https://yomnaelsafty.github.io/Calorie-Tracker-App/) |
 
 ---
 
