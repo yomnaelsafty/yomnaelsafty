@@ -57,7 +57,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 | Project | Description | GitHub Link | Live Demo |
 |---------|------------|-------------|-----------|
 | **🍎 Calorie Tracker App** | Track daily calorie intake by date with full CRUD, persistent localStorage, and dynamic routing — built with React, Vite & Context API. | [GitHub](https://github.com/yomnaelsafty/Calorie-Tracker-App) | [Live Demo](https://yomnaelsafty.github.io/Calorie-Tracker-App/) |
-
+| **📰 NewsFeed App** | News aggregator with live search, category filter & pagination — built with React, Vite, MUI & NewsAPI. | [GitHub](https://github.com/yomnaelsafty/Newsfeed-app) | [Live Demo](https://newsfeed-app-beta.vercel.app) |
 ---
 
 ### Let's Connect
