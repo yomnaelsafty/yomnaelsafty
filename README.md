@@ -59,6 +59,7 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 | **🍎 Calorie Tracker App** | Track daily calorie intake by date with full CRUD, persistent localStorage, and dynamic routing — built with React, Vite & Context API. | [GitHub](https://github.com/yomnaelsafty/Calorie-Tracker-App) | [Live Demo](https://yomnaelsafty.github.io/Calorie-Tracker-App/) |
 | **📰 NewsFeed App** | News aggregator with live search, category filter & pagination — built with React, Vite, MUI & NewsAPI. | [GitHub](https://github.com/yomnaelsafty/Newsfeed-app) | [Live Demo](https://newsfeed-app-beta.vercel.app) |
 | **🌍 Around the World** | Explore countries with search, region filter, dark mode & detailed country pages — built with React, Vite & Tailwind CSS v4, with localStorage fallback caching. | [GitHub](https://github.com/yomnaelsafty/Around-the-world) | [Live Demo](https://around-the-world-six-theta.vercel.app/) |
+| **📋 Kanban Board** | Multi-board task management app with draggable columns and tasks, inline task editing, and full board/column/task CRUD — built with React 19, Tailwind CSS v4, `@dnd-kit` & Radix UI, with localStorage persistence. | [GitHub](https://github.com/yomnaelsafty/Kanban-board) | [Live Demo](https://kanban-board-gules-chi.vercel.app/) |
 
 ---
 
