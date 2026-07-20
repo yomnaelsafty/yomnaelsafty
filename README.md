@@ -9,7 +9,8 @@ I'm **Yomna El-Safty**, a **Front-End Developer** and **Clinical Pharmacist** fr
 
 ### Skills
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Tools & Libraries:** React.js, Tkinter, Git & GitHub, VS Code
+- **Frameworks & Libraries:** React.js, Tailwind CSS, Tkinter
+- **Tools:** Git & GitHub, Vite, VS Code
 - **Other:** Problem-solving, UI/UX basics, team collaboration
 
 ---
